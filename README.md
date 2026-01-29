@@ -50,4 +50,3 @@ The structure is pretty bad but i will fix it later
 
 The program is pretty barebones and contains only basic featurs so it is pretty expandabe. I will only post some fixes later otherwise it is pretty much done
 pyplp install pyplot
-```
