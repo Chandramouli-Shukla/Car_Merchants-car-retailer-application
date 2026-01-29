@@ -41,7 +41,7 @@ pymysql
 pip install pymysql
 ```
 
-# Structue
+# Structure
 
 The program consists of various functions to ritrive, edit, create and remove records with varius privlages given to admin, salesman and customes. All the functions are called in the main loop which consits of two nested while loop. You can edit each function according to your needs.
 
